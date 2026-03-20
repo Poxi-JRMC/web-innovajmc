@@ -21,19 +21,19 @@ Landing page corporativa para Innova JMC, enfocada en presentación de servicios
 > Las imágenes deben estar en `public/inova/`.
 
 ### Home
-![Home](public/inova/1portafolio.webp)
+![Home](1portafolio.webp)
 
 ### Servicios
-![Servicios](public/inova/2portafolio.webp)
+![Servicios](2portafolio.webp)
 
 ### Proyectos
-![Proyectos](public/inova/3portafolio.webp)
+![Proyectos](3portafolio.webp)
 
 ### Proceso
-![Proceso](public/inova/4portafolio.webp)
+![Proceso](4portafolio.webp)
 
 ### Contacto
-![Contacto](public/inova/5portafolio.webp)
+![Contacto](5portafolio.webp)
 
 ## Estructura clave
 
